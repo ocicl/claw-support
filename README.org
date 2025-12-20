@@ -1,0 +1,9 @@
+* claw-support
+
+Support utilities for CLAW (Common Lisp Autowrap).
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/borodust/claw-support.git |
+| commit  | 9a15c8b                                        |
+| systems | claw-support                                   |
+|---------+------------------------------------------------|
